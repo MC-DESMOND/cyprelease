@@ -21,7 +21,7 @@
 
 <br/> `you: -output output folder name or nothing`    to change or check my output at runtime.
 <br/> `you: -o output folder name or nothing     `    to change or check my output at runtime.
-<br/> `you: -o                                     `     nothing.
+<br/> `you: -o                                     `  nothing.
 
 <br/> `you: -restart`     to restart me at runtime.
 <br/> `you: -r      `     to restart me at runtime.
