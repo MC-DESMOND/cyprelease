@@ -14,14 +14,14 @@
 
 <h1>-help </h1>
 
-<br/> cyperx output folder name  `    to change my output before start.
+<br/> cyperx `output folder name  `    to change my output before start.
 
 <br/> `you: -help`       to get help at runtime.
 <br/> `you: -h   `       to get help at runtime.
 
 <br/> `you: -output output folder name or nothing`    to change or check my output at runtime.
 <br/> `you: -o output folder name or nothing     `    to change or check my output at runtime.
-<br/> `you: -o                                     `  nothing.
+<br/> `you: -o                                   `    nothing.
 
 <br/> `you: -restart`     to restart me at runtime.
 <br/> `you: -r      `     to restart me at runtime.
