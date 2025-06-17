@@ -14,7 +14,7 @@
 
 <h1>-help </h1>
 
-<br/> cyperx `output folder name  `    to change my output before start.
+<br/> `C:\> cyperx output folder name  `    to change my output before start.
 
 <br/> `you: -help`       to get help at runtime.
 <br/> `you: -h   `       to get help at runtime.
