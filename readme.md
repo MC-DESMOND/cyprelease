@@ -11,7 +11,8 @@
 - uses a different write architecture called `json file action` to write files and folders. _(new)_
 
 <br/>
-**--HELP**
+
+<h1>--help </h1>
 
 <br/> cyperx <output folder name> // to change my output before start.
 
