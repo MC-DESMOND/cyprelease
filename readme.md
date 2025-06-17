@@ -14,45 +14,45 @@
 
 <h1>-help </h1>
 
-<br/> cyperx <output folder name> > to change my output before start.
+<br/> cyperx <\output folder name> <span style="color:gray">to change my output before start</span>
 
-<br/> you: -help > to get help at runtime.
-<br/> you: -h    > to get help at runtime.
+<br/> you: -help <span style="color:gray">to get help at runtime</span>
+<br/> you: -h    <span style="color:gray">to get help at runtime</span>
 
-<br/> you: -output <output folder name or nothing> > to change or check my output at runtime.
-<br/> you: -o <output folder name or nothing>      > to change or check my output at runtime.
-<br/> you: -o                                      > nothing.
+<br/> you: -output <\output folder name or nothing> <span style="color:gray">to change or check my output at runtime</span>
+<br/> you: -o <\output folder name or nothing>      <span style="color:gray">to change or check my output at runtime</span>
+<br/> you: -o                                      <span style="color:gray">nothing</span>
 
-<br/> you: -restart > to restart me at runtime.
-<br/> you: -r       > to restart me at runtime.
-<br/> you: -reset   > to restart me at runtime.
+<br/> you: -restart <span style="color:gray">to restart me at runtime</span>
+<br/> you: -r       <span style="color:gray">to restart me at runtime</span>
+<br/> you: -reset   <span style="color:gray">to restart me at runtime</span>
 
-<br/> you: -check-up > to check for update at runtime.
-<br/> you: -c        > to check for update at runtime.
-<br/> you: -up       > to check for update at runtime.
+<br/> you: -check-up <span style="color:gray">to check for update at runtime</span>
+<br/> you: -c        <span style="color:gray">to check for update at runtime</span>
+<br/> you: -up       <span style="color:gray">to check for update at runtime</span>
 
-<br/> you: what does "file:<filePath>" do > to refer a file
+<br/> you: what does "file:<\filePath>" do <span style="color:gray">to refer a file
 
-<br/> you: what does "folder:<folderPath>" do > to refer a folder
+<br/> you: what does "folder:<\folderPath>" do <span style="color:gray">to refer a folder
 
-<br/> you:  -voice <voice_name or nothing> > to change or check my voice as runtime.
-<br/> you:  -v <voice_name or nothing>     > to change or check my voice as runtime.
-<br/> you:  -v                             > <nothing>.
+<br/> you:  -voice <\voice_name or nothing> <span style="color:gray">to change or check my voice as runtime</span>
+<br/> you:  -v <\voice_name or nothing>     <span style="color:gray">to change or check my voice as runtime</span>
+<br/> you:  -v                             <span style="color:gray"><\nothing></span>
 
-<br/> you: -pause > to pause my voice at runtime.
-<br/> you: -p     > to pause my voice at runtime.
+<br/> you: -pause <span style="color:gray">to pause my voice at runtime</span>
+<br/> you: -p     <span style="color:gray">to pause my voice at runtime</span>
 
-<br/> you: -resume > to resume my voice at runtime.
-<br/> you: -res    > to resume my voice at runtime.
+<br/> you: -resume <span style="color:gray">to resume my voice at runtime</span>
+<br/> you: -res    <span style="color:gray">to resume my voice at runtime</span>
 
-<br/> you: -say <text> > to make me say something at runtime.
-<br/> you: -s <text> > to make me say something at runtime.
+<br/> you: -say <\text> <span style="color:gray">to make me say something at runtime</span>
+<br/> you: -s <\text> <span style="color:gray">to make me say something at runtime</span>
 
-<br/> you: how does a car work "voice:<voice_name or nothing>" > for me to read to you.
-<br/> you: how does a car work "say:<voice_name or nothing>"   > for me to read to you.
-<br/> you: how does a car work "v:<voice_name or nothing>"     > for me to read to you.
-<br/> you: how does a car work "v:"                            > <nothing> to use the current voice.
-<br/> you: how does a car work -v                           > to use the current voice.
+<br/> you: how does a car work "voice:<\voice_name or nothing>" <span style="color:gray">for me to read to you</span>
+<br/> you: how does a car work "say:<\voice_name or nothing>"   <span style="color:gray">for me to read to you</span>
+<br/> you: how does a car work "v:<\voice_name or nothing>"     <span style="color:gray">for me to read to you</span>
+<br/> you: how does a car work "v:"                            <span style="color:gray"><\nothing> to use the current voice</span>
+<br/> you: how does a car work -v                           <span style="color:gray">to use the current voice</span>
 
 <br/> here are some voices you can use:
 <br/>     - "say:en-US-Wavenet-A"
@@ -77,6 +77,6 @@
 <br/>     - "say:en-NG-EzinneNeural"
   <br/>
 
-![cyperximg-removebg-preview](https:>github.com/user-attachments/assets/5111ad76-0737-48f4-881b-d630771ebb52)
+![cyperximg-removebg-preview](https://github.com/user-attachments/assets/5111ad76-0737-48f4-881b-d630771ebb52)
 
 
