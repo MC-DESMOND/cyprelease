@@ -39,8 +39,8 @@
 <br/> `you:  -v <\voice_name or nothing>    `    to change or check my voice as runtime.
 <br/> `you:  -v                            `     <\nothing>.
 
-<br/> you: -pause`       to pause my voice at runtime.
-<br/> you: -p    `       to pause my voice at runtime.
+<br/> `you: -pause`       to pause my voice at runtime.
+<br/> `you: -p    `       to pause my voice at runtime.
 
 <br/> `you: -resume`     to resume my voice at runtime.
 <br/> `you: -res   `     to resume my voice at runtime.
@@ -55,26 +55,26 @@
 <br/> `you: how does a car work -v                          `    to use the current voice.
 
 <br/> here are some voices you can use:
-<br/>     - "say:en-US-Wavenet-A"
-<br/>     - "say:en-AU-WilliamNeural"
-<br/>     - "say:en-CA-LiamNeural"
-<br/>     - "say:en-HK-SamNeural"
-<br/>     - "say:en-IN-PrabhatNeural"
-<br/>     - "say:en-IE-ConnorNeural"
-<br/>     - "say:en-KE-ChilembaNeural"
-<br/>     - "say:en-NZ-MitchellNeural"
-<br/>     - "say:en-NG-AbeoNeural"
-<br/>     - "say:en-PH-JamesNeural"
-<br/>     - "say:en-SG-WayneNeural"
-<br/>     - "say:en-ZA-LukeNeural"
-<br/>     - "say:en-TZ-ElimuNeural"
-<br/>     - "say:en-GB-RyanNeural"
-<br/>     - "say:en-US-ChristopherNeural"
-<br/>     - "say:en-US-GuyNeural"
-<br/>     - "say:en-US-RogerNeural"
-<br/>     - "say:en-US-SteffanNeural"
-<br/>     - "say:en-US-SteffanNeural"
-<br/>     - "say:en-NG-EzinneNeural"
+<br/>     - `"say:en-US-Wavenet-A"`
+<br/>     - `"say:en-AU-WilliamNeural"`
+<br/>     - `"say:en-CA-LiamNeural"`
+<br/>     - `"say:en-HK-SamNeural"`
+<br/>     - `"say:en-IN-PrabhatNeural"`
+<br/>     - `"say:en-IE-ConnorNeural"`
+<br/>     - `"say:en-KE-ChilembaNeural"`
+<br/>     - `"say:en-NZ-MitchellNeural"`
+<br/>     - `"say:en-NG-AbeoNeural"`
+<br/>     - `"say:en-PH-JamesNeural"`
+<br/>     - `"say:en-SG-WayneNeural"`
+<br/>     - `"say:en-ZA-LukeNeural"`
+<br/>     - `"say:en-TZ-ElimuNeural"`
+<br/>     - `"say:en-GB-RyanNeural"`
+<br/>     - `"say:en-US-ChristopherNeural"`
+<br/>     - `"say:en-US-GuyNeural"`
+<br/>     - `"say:en-US-RogerNeural"`
+<br/>     - `"say:en-US-SteffanNeural"`
+<br/>     - `"say:en-US-SteffanNeural"`
+<br/>     - `"say:en-NG-EzinneNeural"`
   <br/>
 
 ![cyperximg-removebg-preview](https://github.com/user-attachments/assets/5111ad76-0737-48f4-881b-d630771ebb52)
