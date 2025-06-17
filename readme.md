@@ -23,9 +23,9 @@
 <br/> `you: -o <\output folder name or nothing>     `    to change or check my output at runtime.
 <br/> `you: -o                                     `     nothing.
 
-<br/> you: -restart`     to restart me at runtime.
-<br/> you: -r      `     to restart me at runtime.
-<br/> you: -reset  `     to restart me at runtime.
+<br/> `you: -restart`     to restart me at runtime.
+<br/> `you: -r      `     to restart me at runtime.
+<br/> `you: -reset  `     to restart me at runtime.
 
 <br/> `you: -check-up`       to check for update at runtime.
 <br/> `you: -c       `       to check for update at runtime.
