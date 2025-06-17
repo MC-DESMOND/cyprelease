@@ -11,68 +11,68 @@
 - uses a different write architecture called `json file action` to write files and folders. _(new)_
 
 **--HELP**
->>  cyperx <output folder name> // to change my output before start.
+<br/> cyperx <output folder name> // to change my output before start.
 
->>  you: -help // to get help at runtime.
->>  you: -h    // to get help at runtime.
+<br/> you: -help // to get help at runtime.
+<br/> you: -h    // to get help at runtime.
 
->>  you: -output <output folder name or nothing> // to change or check my output at runtime.
->>  you: -o <output folder name or nothing>      // to change or check my output at runtime.
->>  you: -o                                      // nothing.
+<br/> you: -output <output folder name or nothing> // to change or check my output at runtime.
+<br/> you: -o <output folder name or nothing>      // to change or check my output at runtime.
+<br/> you: -o                                      // nothing.
 
->>  you: -restart // to restart me at runtime.
->>  you: -r       // to restart me at runtime.
->>  you: -reset   // to restart me at runtime.
+<br/> you: -restart // to restart me at runtime.
+<br/> you: -r       // to restart me at runtime.
+<br/> you: -reset   // to restart me at runtime.
 
->>  you: -check-up // to check for update at runtime.
->>  you: -c        // to check for update at runtime.
->>  you: -up       // to check for update at runtime.
+<br/> you: -check-up // to check for update at runtime.
+<br/> you: -c        // to check for update at runtime.
+<br/> you: -up       // to check for update at runtime.
 
->>  you: what does "file:<filePath>" do // to refer a file
+<br/> you: what does "file:<filePath>" do // to refer a file
 
->>  you: what does "folder:<folderPath>" do // to refer a folder
+<br/> you: what does "folder:<folderPath>" do // to refer a folder
 
->>  you:  -voice <voice_name or nothing> // to change or check my voice as runtime.
->>  you:  -v <voice_name or nothing>     // to change or check my voice as runtime.
->>  you:  -v                             // <nothing>.
+<br/> you:  -voice <voice_name or nothing> // to change or check my voice as runtime.
+<br/> you:  -v <voice_name or nothing>     // to change or check my voice as runtime.
+<br/> you:  -v                             // <nothing>.
 
->>  you: -pause // to pause my voice at runtime.
->>  you: -p     // to pause my voice at runtime.
+<br/> you: -pause // to pause my voice at runtime.
+<br/> you: -p     // to pause my voice at runtime.
 
->>  you: -resume // to resume my voice at runtime.
->>  you: -res    // to resume my voice at runtime.
+<br/> you: -resume // to resume my voice at runtime.
+<br/> you: -res    // to resume my voice at runtime.
 
->>  you: -say <text> // to make me say something at runtime.
->>  you: -s <text> // to make me say something at runtime.
+<br/> you: -say <text> // to make me say something at runtime.
+<br/> you: -s <text> // to make me say something at runtime.
 
->>  you: how does a car work "voice:<voice_name or nothing>" // for me to read to you.
->>  you: how does a car work "say:<voice_name or nothing>"   // for me to read to you.
->>  you: how does a car work "v:<voice_name or nothing>"     // for me to read to you.
->>  you: how does a car work "v:"                            // <nothing> to use the current voice.
->>  you: how does a car work -v                           // to use the current voice.
+<br/> you: how does a car work "voice:<voice_name or nothing>" // for me to read to you.
+<br/> you: how does a car work "say:<voice_name or nothing>"   // for me to read to you.
+<br/> you: how does a car work "v:<voice_name or nothing>"     // for me to read to you.
+<br/> you: how does a car work "v:"                            // <nothing> to use the current voice.
+<br/> you: how does a car work -v                           // to use the current voice.
 
->>  here are some voices you can use:
-    - "say:en-US-Wavenet-A"
-    - "say:en-AU-WilliamNeural"
-    - "say:en-CA-LiamNeural"
-    - "say:en-HK-SamNeural"
-    - "say:en-IN-PrabhatNeural"
-    - "say:en-IE-ConnorNeural"
-    - "say:en-KE-ChilembaNeural"
-    - "say:en-NZ-MitchellNeural"
-    - "say:en-NG-AbeoNeural"
-    - "say:en-PH-JamesNeural"
-    - "say:en-SG-WayneNeural"
-    - "say:en-ZA-LukeNeural"
-    - "say:en-TZ-ElimuNeural"
-    - "say:en-GB-RyanNeural"
-    - "say:en-US-ChristopherNeural"
-    - "say:en-US-GuyNeural"
-    - "say:en-US-RogerNeural"
-    - "say:en-US-SteffanNeural"
-    - "say:en-US-SteffanNeural"
-    - "say:en-NG-EzinneNeural"
-  
+<br/> here are some voices you can use:
+<br/>     - "say:en-US-Wavenet-A"
+<br/>     - "say:en-AU-WilliamNeural"
+<br/>     - "say:en-CA-LiamNeural"
+<br/>     - "say:en-HK-SamNeural"
+<br/>     - "say:en-IN-PrabhatNeural"
+<br/>     - "say:en-IE-ConnorNeural"
+<br/>     - "say:en-KE-ChilembaNeural"
+<br/>     - "say:en-NZ-MitchellNeural"
+<br/>     - "say:en-NG-AbeoNeural"
+<br/>     - "say:en-PH-JamesNeural"
+<br/>     - "say:en-SG-WayneNeural"
+<br/>     - "say:en-ZA-LukeNeural"
+<br/>     - "say:en-TZ-ElimuNeural"
+<br/>     - "say:en-GB-RyanNeural"
+<br/>     - "say:en-US-ChristopherNeural"
+<br/>     - "say:en-US-GuyNeural"
+<br/>     - "say:en-US-RogerNeural"
+<br/>     - "say:en-US-SteffanNeural"
+<br/>     - "say:en-US-SteffanNeural"
+<br/>     - "say:en-NG-EzinneNeural"
+  <br/>
 
 ![cyperximg-removebg-preview](https://github.com/user-attachments/assets/5111ad76-0737-48f4-881b-d630771ebb52)
 
