@@ -37,7 +37,7 @@
 
 <br/> `you:  -voice voice_name or nothing`    to change or check my voice as runtime.
 <br/> `you:  -v voice_name or nothing    `    to change or check my voice as runtime.
-<br/> `you:  -v                            `  nothing.
+<br/> `you:  -v                          `    nothing.
 
 <br/> `you: -pause`       to pause my voice at runtime.
 <br/> `you: -p    `       to pause my voice at runtime.
@@ -51,8 +51,8 @@
 <br/> `you: how does a car work "voice:voice_name or nothing"`    for me to read to you.
 <br/> `you: how does a car work "say:voice_name or nothing"  `    for me to read to you.
 <br/> `you: how does a car work "v:voice_name or nothing"    `    for me to read to you.
-<br/> `you: how does a car work "v:"                           `  nothing to use the current voice.
-<br/> `you: how does a car work -v                          `     to use the current voice.
+<br/> `you: how does a car work "v:"                         `    nothing to use the current voice.
+<br/> `you: how does a car work -v                           `    to use the current voice.
 
 <br/> here are some voices you can use:
 <br/>     - `"say:en-US-Wavenet-A"`
