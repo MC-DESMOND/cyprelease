@@ -14,13 +14,13 @@
 
 <h1>-help </h1>
 
-<br/> `C:\> cyperx output folder name  `    to change my output before start.
+<br/> `C:\> cyperx 'output folder name'  `    to change my output before start.
 
 <br/> `you: -help`       to get help at runtime.
 <br/> `you: -h   `       to get help at runtime.
 
-<br/> `you: -output output folder name or nothing`    to change or check my output at runtime.
-<br/> `you: -o output folder name or nothing     `    to change or check my output at runtime.
+<br/> `you: -output 'output folder name or nothing'`    to change or check my output at runtime.
+<br/> `you: -o 'output folder name or nothing'     `    to change or check my output at runtime.
 <br/> `you: -o                                   `    nothing.
 
 <br/> `you: -restart`     to restart me at runtime.
@@ -31,12 +31,12 @@
 <br/> `you: -c       `       to check for update at runtime.
 <br/> `you: -up      `       to check for update at runtime.
 
-<br/> `you: what does "file:filePath" do`     to refer a file
+<br/> `you: what does "file:'filePath'" do`     to refer a file
 
-<br/> `you: what does "folder:folderPath" do` to refer a folder
+<br/> `you: what does "folder:'folderPath'" do` to refer a folder
 
-<br/> `you:  -voice voice_name or nothing`    to change or check my voice as runtime.
-<br/> `you:  -v voice_name or nothing    `    to change or check my voice as runtime.
+<br/> `you:  -voice 'voice_name or nothing'`    to change or check my voice as runtime.
+<br/> `you:  -v 'voice_name or nothing'    `    to change or check my voice as runtime.
 <br/> `you:  -v                          `    nothing.
 
 <br/> `you: -pause`       to pause my voice at runtime.
@@ -45,14 +45,14 @@
 <br/> `you: -resume`     to resume my voice at runtime.
 <br/> `you: -res   `     to resume my voice at runtime.
 
-<br/> `you: -say text`    to make me say something at runtime.
-<br/> `you: -s text`      to make me say something at runtime.
+<br/> `you: -say 'text'`    to make me say something at runtime.
+<br/> `you: -s 'text'`      to make me say something at runtime.
 
-<br/> `you: how does a car work "voice:voice_name or nothing"`    for me to read to you.
-<br/> `you: how does a car work "say:voice_name or nothing"  `    for me to read to you.
-<br/> `you: how does a car work "v:voice_name or nothing"    `    for me to read to you.
-<br/> `you: how does a car work "v:"                         `    nothing to use the current voice.
-<br/> `you: how does a car work -v                           `    to use the current voice.
+<br/> `you: how does a car work "voice:'voice_name or nothing'"`    for me to read to you.
+<br/> `you: how does a car work "say:'voice_name or nothing'"  `    for me to read to you.
+<br/> `you: how does a car work "v:'voice_name or nothing'"    `    for me to read to you.
+<br/> `you: how does a car work "v:"                           `    nothing to use the current voice.
+<br/> `you: how does a car work -v                             `    to use the current voice.
 
 <br/> here are some voices you can use:
 <br/>     - `"say:en-US-Wavenet-A"`
