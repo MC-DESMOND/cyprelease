@@ -21,7 +21,7 @@
 
 <br/> `you: -output 'output folder name or nothing'`    to change or check my output at runtime.
 <br/> `you: -o 'output folder name or nothing'     `    to change or check my output at runtime.
-<br/> `you: -o                                   `    nothing.
+<br/> `you: -o                                     `    nothing.
 
 <br/> `you: -restart`     to restart me at runtime.
 <br/> `you: -r      `     to restart me at runtime.
@@ -37,7 +37,7 @@
 
 <br/> `you:  -voice 'voice_name or nothing'`    to change or check my voice as runtime.
 <br/> `you:  -v 'voice_name or nothing'    `    to change or check my voice as runtime.
-<br/> `you:  -v                          `    nothing.
+<br/> `you:  -v                            `    nothing.
 
 <br/> `you: -pause`       to pause my voice at runtime.
 <br/> `you: -p    `       to pause my voice at runtime.
@@ -46,7 +46,11 @@
 <br/> `you: -res   `     to resume my voice at runtime.
 
 <br/> `you: -say 'text'`    to make me say something at runtime.
-<br/> `you: -s 'text'`      to make me say something at runtime.
+<br/> `you: -s 'text'  `    to make me say something at runtime.
+
+<br/> `you: how does a car work -o     `             the let me know my current output dir.
+<br/> `you: how does a car work -output`             the let me know my current output dir.
+<br/> `you: how does a car work -out   `             the let me know my current output dir.
 
 <br/> `you: how does a car work "voice:'voice_name or nothing'"`    for me to read to you.
 <br/> `you: how does a car work "say:'voice_name or nothing'"  `    for me to read to you.
