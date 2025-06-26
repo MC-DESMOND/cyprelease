@@ -14,7 +14,6 @@
 
 <h1>-help </h1>
 
-<br/> `C:\> cyperx 'output folder name'  `    to change my output before start.
 
 <br/> `you: -help`       to get help at runtime.
 <br/> `you: -h   `       to get help at runtime.
@@ -44,6 +43,9 @@
 
 <br/> `you: -resume`     to resume my voice at runtime.
 <br/> `you: -res   `     to resume my voice at runtime.
+
+<br/> `you: -cm `    to clear my memory.
+<br/> `you: -clm`    to clear my memory.
 
 <br/> `you: -say 'text'`    to make me say something at runtime.
 <br/> `you: -s 'text'  `    to make me say something at runtime.
