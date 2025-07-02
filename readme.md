@@ -18,6 +18,14 @@
 <br/> `you: -help`       to get help at runtime.
 <br/> `you: -h   `       to get help at runtime.
 
+<br/>`you: -mp  1`    to enable multi line prompting.
+<br/>`you: -ml  t`    to enable multi line prompting.
+<br/>`you: -mlp -`    to enable multi line prompting.
+
+<br/>`you: -mp  0`    to disable multi line prompting.
+<br/>`you: -ml  f`    to disable multi line prompting.
+<br/>`you: -mlp _`    to disable multi line prompting.
+
 <br/> `you: -output 'output folder name or nothing'`    to change or check my output at runtime.
 <br/> `you: -o 'output folder name or nothing'     `    to change or check my output at runtime.
 <br/> `you: -o                                     `    nothing.
