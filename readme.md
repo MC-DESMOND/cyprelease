@@ -2,13 +2,17 @@
 
 **what to find**:
 - temporary memory.
+- Image understanding.  _**(new)**_
+- share able file memory.  _**(new)**_
+- multi line prompting.
 - ⁠can execute CMD commands.
 - ⁠can create scripts, project and app.
-- can read files and entire folder _(new)_.
+- can read files and entire folder.
 - ⁠can open apps and run test.
-- voice enabled and comes with various voices. _(new)_
-- more readable and color formated response. _(new)_
-- uses a different write architecture called `json file action` to write files and folders. _(new)_
+- voice enabled and comes with various voices. 
+- more readable and color formated response.
+- uses a different write architecture called `Dynamic file cmd Action` to either write files and folders or run commands.  _**(new)**_
+
 
 <br/>
 
@@ -91,6 +95,5 @@
 <br/>     - `"say:en-NG-EzinneNeural"`
   <br/>
 
-![cyperximg-removebg-preview](https://github.com/user-attachments/assets/5111ad76-0737-48f4-881b-d630771ebb52)
-
+![photo-output-4](https://github.com/user-attachments/assets/d9155e64-1bac-4048-acab-4dfb6116be69)
 
