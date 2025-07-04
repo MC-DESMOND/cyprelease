@@ -1,4 +1,5 @@
 {
     "mode":"production",
-    "deployed":true
+    "version":"3",
+    "live":true
 }
