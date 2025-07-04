@@ -1,5 +1,5 @@
 {
     "mode":"production",
     "version":"3",
-    "live":false
+    "live":true
 }
