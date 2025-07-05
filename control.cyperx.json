@@ -1,5 +1,9 @@
 {
     "mode":"production",
     "version":"3",
-    "live":true
+    "live":true,
+    "3":{
+        "live":true,
+        "response":"live"
+    }
 }
