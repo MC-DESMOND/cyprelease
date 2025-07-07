@@ -1,7 +1,7 @@
 {
     "mode":"production",
-    "version^3":"3.0.1",
-    "version":"3.01",
+    "version^3":"3.0.2",
+    "version":"3.02",
     "live":true,
     "3":{
         "live":true,
