@@ -1,6 +1,7 @@
 {
     "mode":"production",
     "version-view":"3.0.4",
+    "version^3":"3.0.4",
     "version":"3.04",
     "live":true,
     "3.0.4":{
@@ -8,7 +9,7 @@
         "response":"live"
     },
     "3":{
-        "live":false,
-        "response":"3.0.3 down"
+        "live":true,
+        "response":"live"
     }
 }
