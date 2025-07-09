@@ -1,8 +1,8 @@
 {
     "mode":"production",
-    "version-view":"3.1.2",
-    "version^3":"3.1.2",
-    "version":"3.12",
+    "version-view":"3.1.1",
+    "version^3":"3.1.1",
+    "version":"3.11",
     "live":true,
     "3.1":{
          "live":true,
