@@ -4,6 +4,10 @@
     "version^3":"3.1.1",
     "version":"3.11",
     "live":true,
+    "4beta1":{
+         "live":true,
+        "response":"beta version" 
+    }, 
     "4":{
          "live":false,
         "response":"this cyperx is unavaliable. find the newer version" 
