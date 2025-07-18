@@ -18,7 +18,7 @@ IF NOT EXIST "%DOWNLOAD_FOLDER%" (
 ECHO Downloading %OUTPUT_FILENAME% to %DOWNLOAD_FOLDER% from %DOWNLOAD_URL%...
 
 :: Download using BITSAdmin (reliable for Windows)
-bitsadmin /transfer "MyExeDownload" /download /priority HIGH "%DOWNLOAD_URL%" "%OUTPUT_FULL_PATH%"
+bitsadmin /transfer "CYPERX_INSTALLER" /download /priority HIGH "%DOWNLOAD_URL%" "%OUTPUT_FULL_PATH%"
 
 IF %ERRORLEVEL% NEQ 0 (
     ECHO Error: Download failed! Please check the URL and your internet connection.
