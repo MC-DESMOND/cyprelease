@@ -4,6 +4,7 @@
     "version^3":"4.0.0",
     "version":"4.0",
     "executable":"https://github.com/MC-DESMOND/cyprelease/releases/download/4/cyperx.exe",
+    "installer_version":"1.0.0",
     "live":true,
     "4.0":{
          "live":true,
