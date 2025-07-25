@@ -1,8 +1,7 @@
 {
     "mode":"production",
-    "version-view":"4.3.1",
-    "version^3":"4.3.1",
-    "version":"4.31", 
+    "version-view":"4.3.2",
+    "version":"4.32", 
     "version-message":"changed file parser",
     "executable":"https://github.com/MC-DESMOND/cyprelease/releases/download/4/cyperx.exe", 
     "installer_version":"3.0.0",
@@ -42,5 +41,7 @@
     "3":{
         "live":true,
         "response":"live"
-    }
+    },
+    "version^3":"4.3.1"
+
 }
