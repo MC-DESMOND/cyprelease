@@ -5,7 +5,7 @@
     "version":"4.31", 
     "version-message":"changed file parser",
     "executable":"https://github.com/MC-DESMOND/cyprelease/releases/download/4/cyperx.exe", 
-    "installer_version":"2.1.0",
+    "installer_version":"3.0.0",
     "live":true,
     "4.3":{ 
          "live":true,
