@@ -2,7 +2,7 @@
     "mode":"production",
     "version-view":"4.3.4",
     "version":"4.34", 
-    "version-message":"fix memory",
+    "version-message":"background terminal event fix",
     "executable":"https://github.com/MC-DESMOND/cyprelease/releases/download/4/cyperx.exe", 
     "installer_version":"3.0.0",
     "live":true,
