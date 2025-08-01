@@ -1,7 +1,7 @@
 {
     "mode":"production",
-    "version-view":"4.3.5",
-    "version":"4.35", 
+    "version-view":"4.3.6",
+    "version":"4.36", 
     "version-message":"background terminal event fix ",
     "executable":"https://github.com/MC-DESMOND/cyprelease/releases/download/4/cyperx.exe", 
     "installer_version":"3.0.0",
