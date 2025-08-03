@@ -1,11 +1,15 @@
 {
     "mode":"production",
-    "version-view":"4.3.9",
-    "version":"4.39", 
+    "version-view":"4.4.0",
+    "version":"4.40", 
     "version-message":"system parser fix",
     "executable":"https://github.com/MC-DESMOND/cyprelease/releases/download/4/cyperx.exe", 
     "installer_version":"3.0.0",
     "live":true,
+    "4.4":{ 
+         "live":true,
+        "response":"live" 
+    }, 
     "4.3":{ 
          "live":true,
         "response":"live" 
