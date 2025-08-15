@@ -1,20 +1,25 @@
-### COMMAND LINE AI
+### COMMAND LINE AI CyperX 5
 
-**what to find**:
-- temporary memory.
-- Image understanding.  _**(new)**_
-- share able file memory.  _**(new)**_
-- multi line prompting.
-- ⁠can execute CMD commands.
-- ⁠can create scripts, project and app.
-- can read files and entire folder.
-- ⁠can open apps and run test.
-- voice enabled and comes with various voices. 
-- more readable and color formated response.
-- uses a different write architecture called `Dynamic file cmd Action` to either write files and folders or run commands.  _**(new)**_
+- read websites contents. **_(new)_**
+- Ignore files just like git. **_(new)_**
+- Cyperx snap shot execution .
+- Automated commit messaging. 
+- Auto start Actions. 
+- Dynamic execution.
+- Console content width control. 
+- Built-In Prompt. 
+- Image understanding.
+- Share able file memory.
+- Multi line prompting.
+- ⁠Can execute CMD commands.
+- ⁠Can create scripts, project and app.
+- Can read files and entire folder.
+- ⁠Can open apps and run test.
+- Voice enabled and comes with various voices. 
+- More readable and color formated response.
+- Uses a different write architecture called `Dynamic file cmd Action` to either write files and folders or run commands.  
 
 
-<br/>
+**DON'T DOWNLOAD CYPERX DIRECTLY**, DOWNLOAD THE INSTALLER : [cypINSTALL.exe](https://github.com/MC-DESMOND/cyprelease/blob/master/cypINSTALL.exe)
 
-<h1>-help </h1>
-<p>for more info</p>
+![2](https://github.com/user-attachments/assets/41464e0c-55a1-4bd9-bd0b-31774da59fbd)
