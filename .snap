@@ -1,0 +1,21 @@
+[
+    {
+        "cyperx": {
+            "response": [
+                {
+                    "type": "normal",
+                    "content": "I will navigate to your repository, then add, commit, and push the changes."
+                }
+            ],
+            "execution_method": "AUTO-EXECUTE",
+            "actions": [
+                {
+                    "operation": {
+                        "CmdCommand": "cd C:\\Users\\MC DESMOND\\dextop\\Cyperx\\cyprelease && git add . && git commit -m \"Automated commit\" && git push"
+                    }
+                }
+            ]
+        },
+        "user": "/automatic; add, commit and push , cd into my repo directory: C:\\Users\\MC DESMOND\\dextop\\Cyperx\\cyprelease "
+    }
+]
