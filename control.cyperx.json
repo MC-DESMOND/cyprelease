@@ -43,11 +43,11 @@
         "response":"this cyperx is unavaliable. find the newer version" 
     },  
     "3.1":{
-         "live":true,
+         "live":false,
         "response":"live" 
     },
     "3":{
-        "live":true,
+        "live":false,
         "response":"live"
     },
     "version^3":"4.3.1"
