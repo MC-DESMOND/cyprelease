@@ -5,7 +5,7 @@
     "version-message":"system parser fix",
     "executable":"https://github.com/MC-DESMOND/cyprelease/releases/download/4/cyperx.exe", 
     "installer_version":"4.0.0",
-    "live":true,
+    "live":false,
     "4.5":{ 
          "live":true,
         "response":"live" 
