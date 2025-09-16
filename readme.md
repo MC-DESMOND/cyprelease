@@ -1,7 +1,15 @@
-### COMMAND LINE AI CyperX 5
+### COMMAND LINE AI CYPERX 6
 
-- read websites contents. **_(new)_**
-- Ignore files just like git. **_(new)_**
+- auto complete on builtin prompts and prompt function. **_(new)_**
+- new confortable user input area. **_(new)_**
+- can read files and folders on it's own.**_(new)_**
+- new Dynamic file operation arcitecture. **_(new)_**
+- new multiline prompt arcitecture. **_(new)_**
+- auto voice control  
+- speech recognition 
+- auto request.
+- read websites contents.
+- Ignore files just like git. 
 - Cyperx snap shot execution .
 - Automated commit messaging. 
 - Auto start Actions. 
@@ -22,4 +30,4 @@
 
 **DON'T DOWNLOAD CYPERX DIRECTLY**, DOWNLOAD THE INSTALLER : [cypINSTALL.exe](https://github.com/MC-DESMOND/cyprelease/blob/master/cypINSTALL.exe)
 
-![2](https://github.com/user-attachments/assets/41464e0c-55a1-4bd9-bd0b-31774da59fbd)
+<img width="1920" height="1793" alt="cyperx3d" src="https://github.com/user-attachments/assets/8a3f4d1b-cba3-4b79-95ed-113b4fdea7da" />
