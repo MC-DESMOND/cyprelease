@@ -1,8 +1,8 @@
 version: 1.0.0
 files:
   - url: cyperx-1.0.0-setup.exe
-    sha512: jHnBSdFqZHKXG/egOO+eIWPi0bhqDP+YlVrNOswSiDvolKXqMxa4NgrXVTo5AFdXCGLdEY3k2a0y9COhHxOU0Q==
-    size: 570393598
+    sha512: oBkmfY4UTqVxSB5z9wfRjCdm50spXwyIf3Lk3BCjYUybTpIgFR4ttqRcIl6b+kZ+qfaRrtRDFMLraxm+8BlZHw==
+    size: 1784991430
 path: cyperx-1.0.0-setup.exe
-sha512: jHnBSdFqZHKXG/egOO+eIWPi0bhqDP+YlVrNOswSiDvolKXqMxa4NgrXVTo5AFdXCGLdEY3k2a0y9COhHxOU0Q==
-releaseDate: '2026-06-16T15:20:50.908Z'
+sha512: oBkmfY4UTqVxSB5z9wfRjCdm50spXwyIf3Lk3BCjYUybTpIgFR4ttqRcIl6b+kZ+qfaRrtRDFMLraxm+8BlZHw==
+releaseDate: '2026-06-23T13:35:56.481Z'
